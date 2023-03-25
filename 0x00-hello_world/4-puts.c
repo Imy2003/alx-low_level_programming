@@ -5,6 +5,6 @@
  */
 int main(void)
 {
-sh: 1: x: not found
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
